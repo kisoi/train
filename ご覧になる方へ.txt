@@ -1,0 +1,1 @@
+私の書いたjupyter notebook はなぜかGithub上で開くことができません。お手数ですが、https://nbviewer.jupyter.org/に私のgithubにあるファイルのURLを貼ってみてください。よろしくお願いします。
